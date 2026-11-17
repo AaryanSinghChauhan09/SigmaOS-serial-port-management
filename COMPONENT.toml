@@ -3,7 +3,7 @@ name = "SigmaOS-serial-port-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "serial-port-management component"
+description = "Serial Port Management"
 upstream = []
 
 [contract]
